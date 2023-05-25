@@ -8,3 +8,7 @@ There are four courses in this specialization, hence, four directories in this r
 - [Generative Deep Learning with TensorFlow](https://www.coursera.org/learn/generative-deep-learning-with-tensorflow?specialization=tensorflow-advanced-techniques)
 
 This repo includes all the labs and assignments on the course of getting this certification
+
+## Quick links
+
+- [Callbacks](https://github.com/Imokut/tensorflow-advanced-techniques/blob/main/Course%201%20-%20Custom%20Models%2C%20Layers%20and%20Loss%20Functions/Week%205%20-%20Callbacks/Lab%201/C1_W5_Lab_1_exploring-callbacks.ipynb)
