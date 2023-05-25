@@ -11,4 +11,5 @@ This repo includes all the labs and assignments on the course of getting this ce
 
 ## Quick links
 
-- [Callbacks](https://github.com/Imokut/tensorflow-advanced-techniques/blob/main/Course%201%20-%20Custom%20Models%2C%20Layers%20and%20Loss%20Functions/Week%205%20-%20Callbacks/Lab%201/C1_W5_Lab_1_exploring-callbacks.ipynb)
+- [Built-in Callbacks](https://github.com/Imokut/tensorflow-advanced-techniques/blob/main/Course%201%20-%20Custom%20Models%2C%20Layers%20and%20Loss%20Functions/Week%205%20-%20Callbacks/Lab%201/C1_W5_Lab_1_exploring-callbacks.ipynb)
+[Custom Callbacks](https://github.com/Imokut/tensorflow-advanced-techniques/blob/main/Course%201%20-%20Custom%20Models%2C%20Layers%20and%20Loss%20Functions/Week%205%20-%20Callbacks/Lab%202/C1_W5_Lab_2_custom-callbacks.ipynb)
