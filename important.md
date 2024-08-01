@@ -1,1 +1,2 @@
-# Custom Metrics
+This states important concepts in my notebboks
+
