@@ -11,6 +11,13 @@ This repo includes all the labs and assignments on the course of getting this ce
 
 ## Quick links
 
-- [Built-in Callbacks](https://github.com/Imokut/tensorflow-advanced-techniques/blob/main/Course%201%20-%20Custom%20Models%2C%20Layers%20and%20Loss%20Functions/Week%205%20-%20Callbacks/Lab%201/C1_W5_Lab_1_exploring-callbacks.ipynb)
-- [Custom Callbacks](https://github.com/Imokut/tensorflow-advanced-techniques/blob/main/Course%201%20-%20Custom%20Models%2C%20Layers%20and%20Loss%20Functions/Week%205%20-%20Callbacks/Lab%202/C1_W5_Lab_2_custom-callbacks.ipynb)
-- [sample_ref](important.md)
+- <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 1 - Functional API\W1_Assignment\C1W1_Assignment.ipynb">Functional API</a>
+- <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 2 - Loss Functions\Labs\C1_W2_Lab_2_huber-object-loss.ipynb">Custom Loss (As a class and s a functons)</a>
+- <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 3 - Layers\Labs\C1_W3_Lab_1_lambda-layer.ipynb">Lambda Layers</a>
+- <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 3 - Layers\Assignment\C1W3_Assignment.ipynb">Custom Layers</a>
+- <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 4 - Models\C1W4_Assignment_VGG_Model.ipynb">Custom Models</a>
+- <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 5 - Callbacks\Lab 1\C1_W5_Lab_1_exploring-callbacks.ipynb">Built-in Callbacks</a>
+- <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 5 - Callbacks\Lab 2\C1_W5_Lab_2_custom-callbacks.ipynb">Custom Callbacks</a>
+- <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 1 - Differentiation and Gradients\Assignment\C2W1_Assignment.ipynb">Gradient Tape</a>
+- <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 2 - Simple Custom Training\Labs\C2_W2_Lab_2_training-categorical.ipynb">Custom Training</a>
+- <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 2 - Simple Custom Training\Assignment\C2W2_Assignment.ipynb">Custom Metrics</a>
