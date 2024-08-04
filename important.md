@@ -15,6 +15,7 @@ The following notebooks contain code with confusion matrices. This is my preferr
 
 - <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 1 - Functional API\Labs\C1_W1_Lab_3_siamese-network.ipynb">Pairs of Images and their euclidean distance</a>
 - <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 2 - Simple Custom Training\Labs\C2_W2_Lab_2_training-categorical.ipynb">Image, Correct Label, Predicted Label</a>
+- <a href="Course 1 - Custom Models, Layers and Loss Functions/Week 5 - Callbacks/Lab 2/C1_W5_Lab_2_custom-callbacks.ipynb"> GIF Mnist. Red label for wrong label</a>
 
 # My Model Implementations
 
