@@ -20,3 +20,12 @@ The following notebooks contain code with confusion matrices. This is my preferr
 # My Model Implementations
 
 - <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 4 - Models\Labs\C1_W4_Lab_2_resnet-example.ipynb">ResNet</a>
+- <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 4 - Models\C1W4_Assignment_VGG_Model.ipynb">VGG Network</a>
+
+# Datasets
+- Fashion Mnist
+    - <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 1 - Functional API\Labs\C1_W1_Lab_3_siamese-network.ipynb">Siamese Network</a>
+
+- <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 1 - Functional API\W1_Assignment\C1W1_Assignment.ipynb">Wine Quality</a>
+- 
+
