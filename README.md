@@ -12,7 +12,7 @@ This repo includes all the labs and assignments on the course of getting this ce
 ## Quick links
 
 - <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 1 - Functional API\W1_Assignment\C1W1_Assignment.ipynb">Functional API</a>
-- <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 2 - Loss Functions\Labs\C1_W2_Lab_2_huber-object-loss.ipynb">Custom Loss (As a class and s a functons)</a>
+- <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 2 - Loss Functions\Labs\C1_W2_Lab_2_huber-object-loss.ipynb">Custom Loss</a> (As a class and as a function)
 - <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 3 - Layers\Labs\C1_W3_Lab_1_lambda-layer.ipynb">Lambda Layers</a>
 - <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 3 - Layers\Assignment\C1W3_Assignment.ipynb">Custom Layers</a>
 - <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 4 - Models\C1W4_Assignment_VGG_Model.ipynb">Custom Models</a>
@@ -23,4 +23,6 @@ This repo includes all the labs and assignments on the course of getting this ce
 - <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 2 - Simple Custom Training\Assignment\C2W2_Assignment.ipynb">Custom Metrics</a>
 - <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 3 - Autograph\Labs\C2_W3_Lab_2-graphs-for-complex-code.ipynb">AutoGraph</a>
 - <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 3 - Autograph\Assignment\C2W3_Assignment.ipynb">Custom Training with Autograph</a>
-- <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 4 - Distribution Strategy\C2_W4_Lab_1_basic-mirrored-strategy.ipynb">Mirroed Distribution Strategy</a>
+- <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 4 - Distribution Strategy\C2_W4_Lab_1_basic-mirrored-strategy.ipynb">Mirrored Distribution Strategy</a>
+- <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 4 - Distribution Strategy\C2_W4_Lab_2_multi-GPU-mirrored-strategy.ipynb"> Multi GPU mirrored strategy with custom training</a>
+- 
