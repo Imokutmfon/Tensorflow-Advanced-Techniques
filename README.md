@@ -23,3 +23,4 @@ This repo includes all the labs and assignments on the course of getting this ce
 - <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 2 - Simple Custom Training\Assignment\C2W2_Assignment.ipynb">Custom Metrics</a>
 - <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 3 - Autograph\Labs\C2_W3_Lab_2-graphs-for-complex-code.ipynb">AutoGraph</a>
 - <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 3 - Autograph\Assignment\C2W3_Assignment.ipynb">Custom Training with Autograph</a>
+- <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 4 - Distribution Strategy\C2_W4_Lab_1_basic-mirrored-strategy.ipynb">Mirroed Distribution Strategy</a>
