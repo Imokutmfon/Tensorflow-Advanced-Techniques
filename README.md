@@ -25,4 +25,4 @@ This repo includes all the labs and assignments on the course of getting this ce
 - <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 3 - Autograph\Assignment\C2W3_Assignment.ipynb">Custom Training with Autograph</a>
 - <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 4 - Distribution Strategy\C2_W4_Lab_1_basic-mirrored-strategy.ipynb">Mirrored Distribution Strategy</a>
 - <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 4 - Distribution Strategy\C2_W4_Lab_2_multi-GPU-mirrored-strategy.ipynb"> Multi GPU mirrored strategy with custom training</a>
-- 
+- <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 4 - Distribution Strategy\C2_W4_Lab_3_using-TPU-strategy.ipynb">TPU custom training</a>
