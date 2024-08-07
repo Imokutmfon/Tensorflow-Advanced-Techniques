@@ -38,5 +38,6 @@ The following notebooks contain code with confusion matrices. This is my preferr
 - <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 4 - Models\C1W4_Assignment_VGG_Model.ipynb">Cat vs Dogs</a>
 - <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 2 - Simple Custom Training\Assignment\C2W2_Assignment.ipynb">Breast Cancer </a>
 - <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 3 - Autograph\Assignment\C2W3_Assignment.ipynb">Horse or Human</a>
-- <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 4 - Distribution Strategy\C2_W4_Lab_3_using-TPU-strategy.ipynb">Flowers</as>
+- <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 4 - Distribution Strategy\C2_W4_Lab_3_using-TPU-strategy.ipynb">Flowers</a>
+- <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 4 - Distribution Strategy\C2W4_Assignment.ipynb"> Oxford flowers 2</a>
 
