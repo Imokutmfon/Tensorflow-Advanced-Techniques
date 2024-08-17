@@ -25,6 +25,7 @@ The following notebooks contain code with confusion matrices. This is my preferr
 - <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 4 - Models\Labs\C1_W4_Lab_2_resnet-example.ipynb">ResNet</a>
 - <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 4 - Models\C1W4_Assignment_VGG_Model.ipynb">VGG Network</a>
 - <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 1 - Functional API\Labs\C1_W1_Lab_3_siamese-network.ipynb">Siamese Network</a>
+- <a href="Course 3 - Advance Computer Vision\W1\ungraded_labs\C3_W1_Lab_1_transfer_learning_cats_dogs.ipynb">Inception V3</a>
 
 # Datasets
 - Fashion Mnist
