@@ -23,6 +23,7 @@ The following notebooks contain code with confusion matrices. This is my preferr
 # My Model Implementations
 
 - <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 4 - Models\Labs\C1_W4_Lab_2_resnet-example.ipynb">ResNet</a>
+- <a href="Course 3 - Advance Computer Vision\W1\ungraded_labs\C3_W1_Lab_2_Transfer_Learning_CIFAR_10.ipynb">ResNet50</a>
 - <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 4 - Models\C1W4_Assignment_VGG_Model.ipynb">VGG Network</a>
 - <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 1 - Functional API\Labs\C1_W1_Lab_3_siamese-network.ipynb">Siamese Network</a>
 - <a href="Course 3 - Advance Computer Vision\W1\ungraded_labs\C3_W1_Lab_1_transfer_learning_cats_dogs.ipynb">Inception V3</a>
@@ -44,4 +45,4 @@ The following notebooks contain code with confusion matrices. This is my preferr
 - <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 3 - Autograph\Assignment\C2W3_Assignment.ipynb">Horse or Human</a>
 - <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 4 - Distribution Strategy\C2_W4_Lab_3_using-TPU-strategy.ipynb">Flowers</a>
 - <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 4 - Distribution Strategy\C2W4_Assignment.ipynb"> Oxford flowers 2</a>
-
+- <a href="Course 3 - Advance Computer Vision\W1\ungraded_labs\C3_W1_Lab_2_Transfer_Learning_CIFAR_10.ipynb">CIFAR - 10</a>
