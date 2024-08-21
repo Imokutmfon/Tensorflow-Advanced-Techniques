@@ -36,6 +36,7 @@ The following notebooks contain code with confusion matrices. This is my preferr
 - Mnist
     - <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 4 - Models\Labs\C1_W4_Lab_2_resnet-example.ipynb">ResNet</a>
     - <a href="Course 2 - Custom Training loops, Gradients and Distributed Training\Week 4 - Distribution Strategy\C2_W4_Lab_1_basic-mirrored-strategy.ipynb">Mirrored Distribution Strategy</a>
+    - <a href="Course 3 - Advance Computer Vision\W1\ungraded_labs\C3_W1_Lab_3_Object_Localization.ipynb">Object Localization</a>
 
 - <a href="Course 1 - Custom Models, Layers and Loss Functions\Week 1 - Functional API\W1_Assignment\C1W1_Assignment.ipynb">Wine Quality</a>
 - Cat vs Dogs
