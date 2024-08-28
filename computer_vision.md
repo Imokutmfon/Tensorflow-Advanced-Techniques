@@ -5,7 +5,7 @@
 - <a href="Course 3 - Advance Computer Vision\W1\ungraded_labs\C3_W1_Lab_2_Transfer_Learning_CIFAR_10.ipynb">Advanced Transfer Learning - ResNET50</a>
 - <a href="Course 3 - Advance Computer Vision\W1\ungraded_labs\C3_W1_Lab_3_Object_Localization.ipynb">Object Localization</a>
 - Object Detection
-    - <a href="">Object Detection with Tensorflow</a>
+    - <a href="Course 3 - Advance Computer Vision\W2\ungraded_labs\C3_W2_Lab_1_Simple_Object_Detection.ipynb">Object Detection with Tensorflow</a>
     - <a href="">Object Detection API</a>
 - <a href="">Image Segmentation</a>
 - <a href="">U-Net</a>
