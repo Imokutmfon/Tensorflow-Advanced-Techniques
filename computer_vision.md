@@ -7,6 +7,7 @@
 - Object Detection
     - <a href="Course 3 - Advance Computer Vision\W2\ungraded_labs\C3_W2_Lab_1_Simple_Object_Detection.ipynb">Object Detection with Tensorflow</a>
     - <a href="Course 3 - Advance Computer Vision\W2\ungraded_labs\C3_W2_Lab_2_Object_Detection.ipynb">Object Detection</a>
+    - <a href="https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/hub/tutorials/tf2_object_detection.ipynb">Obect Detection APIs</a>
 - <a href="">Image Segmentation</a>
 - <a href="">U-Net</a>
 - <a href="">Instance Segmentation</a>
