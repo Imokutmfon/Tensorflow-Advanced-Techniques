@@ -31,6 +31,8 @@ The following notebooks contain code with confusion matrices. This is my preferr
 - <a href="Course 3 - Advance Computer Vision\W1\ungraded_labs\C3_W1_Lab_1_transfer_learning_cats_dogs.ipynb">Inception V3</a>
 - <a href="Course 3 - Advance Computer Vision\W1\assignment\C3W1_Assignment.ipynb">MobileNetV2</a>
     - <a href="Course 3 - Advance Computer Vision\W2\ungraded_labs\C3_W2_Lab_2_Object_Detection.ipynb">Object detection</a>
+- Encoder - Decoder 
+    - <a href="Course 3 - Advance Computer Vision\W3\ungraded_labs\C3_W3_Lab_1_VGG16-FCN8-CamVid.ipynb"> VGG 16 - FCN8</a>
 
 # Datasets
 - Fashion Mnist

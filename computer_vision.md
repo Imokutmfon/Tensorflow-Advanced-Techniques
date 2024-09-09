@@ -7,7 +7,7 @@
 - Object Detection
     - <a href="Course 3 - Advance Computer Vision\W2\ungraded_labs\C3_W2_Lab_2_Object_Detection.ipynb">Object Detection</a>
     - <a href="https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/hub/tutorials/tf2_object_detection.ipynb">Obect Detection APIs</a>
-- <a href="">Image Segmentation</a>
+- <a href="Course 3 - Advance Computer Vision\W3\ungraded_labs\C3_W3_Lab_1_VGG16-FCN8-CamVid.ipynb">Image Segmentation</a>
 - <a href="">U-Net</a>
 - <a href="">Instance Segmentation</a>
 - Class Activation Maps
@@ -22,3 +22,9 @@
 - <a href="Course 3 - Advance Computer Vision\W1\ungraded_labs\C3_W1_Lab_2_Transfer_Learning_CIFAR_10.ipynb">Upsampling</a>
 - <a href="Course 3 - Advance Computer Vision\W1\ungraded_labs\C3_W1_Lab_3_Object_Localization.ipynb">Bounding boxes</a>
 - <a href="Course 3 - Advance Computer Vision\W1\ungraded_labs\C3_W1_Lab_3_Object_Localization.ipynb">Intersection over union</a>
+- This<a href="Course 3 - Advance Computer Vision\W3\ungraded_labs\C3_W3_Lab_1_VGG16-FCN8-CamVid.ipynb"> notebook </a>covers
+    - Intersection over Union
+    - Area of Overlap
+    - Combined Area
+    - Area of union
+    - Dice Score
