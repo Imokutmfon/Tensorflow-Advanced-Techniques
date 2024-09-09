@@ -33,7 +33,9 @@ The following notebooks contain code with confusion matrices. This is my preferr
     - <a href="Course 3 - Advance Computer Vision\W2\ungraded_labs\C3_W2_Lab_2_Object_Detection.ipynb">Object detection</a>
 - Encoder - Decoder 
     - <a href="Course 3 - Advance Computer Vision\W3\ungraded_labs\C3_W3_Lab_1_VGG16-FCN8-CamVid.ipynb"> VGG 16 - FCN8</a>
-- <a href="Course 3 - Advance Computer Vision/W2/ungraded_labs/C3_W2_Lab_3_Interactive_Eager_Few_Shot_OD.ipynb"> Retina Net</a> (Loaded from model checkpoints) 
+- <a href="Course 3 - Advance Computer Vision/W2/ungraded_labs/C3_W2_Lab_3_Interactive_Eager_Few_Shot_OD.ipynb"> Retina Net</a> (Loaded from model checkpoints)
+- <a href="Course 3 - Advance Computer Vision\W3\ungraded_labs\C3_W3_Lab_2_OxfordPets-UNet.ipynb">U-Net</a>
+- <a href="Course 3 - Advance Computer Vision\W3\ungraded_labs\C3_W3_Lab_3_Mask-RCNN-ImageSegmentation.ipynb">Mask R-CNN</a>
 
 # Datasets
 - Fashion Mnist
